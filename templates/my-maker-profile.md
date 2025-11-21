@@ -1,9 +1,9 @@
 # My Maker Profile
 # 我的 Maker 档案
 
-**Name | 姓名**: _________________
+**Name | 姓名**: Isaac Wong
 
-**Date | 日期**: _________________
+**Date | 日期**: November 21, 2025
 
 ---
 
@@ -11,11 +11,11 @@
 
 ### Who am I? | 我是谁？
 
-**My name is | 我的名字是**: 
+**My name is | 我的名字是**: Isaac
 
-**My hobbies include | 我的爱好包括**: 
+**My hobbies include | 我的爱好包括**: Music, Trombone, Frisbee 
 
-**One interesting thing about me | 关于我的一件有趣的事**: 
+**One interesting thing about me | 关于我的一件有趣的事**: I am from the greatest city in the world: New York!
 
 ---
 
@@ -23,12 +23,12 @@
 
 ### Why did I join the Making More Makers course? | 为什么参加 Making More Makers 课程？
 
-
+I joined Making More Makers to get back into the building spirit! I've spent a lot of my high school time toying with electronics and I can't wait to build even grander projects at DKU.
 
 
 ### What do I hope to gain from this experience? | 我希望从这次经历中获得什么？
 
-
+I hope to gain better custom PCB design skills, as I have limited experience with designing my own PCBs. Mastering this will allow me to create more effective and unique designs.
 
 
 ---
@@ -37,35 +37,29 @@
 
 ### Project Name (if you have one) | 项目名称（如果你有的话）
 
+Cup-actitive Lamp
 
 
 ### What do I want to make? | 我想做什么？
 
-*Describe your project idea in 3-5 sentences*  
-*用 3-5 句话描述你的项目想法*
-
-
+At it's core, Cup-acitive Lamp is a lamp made out of a bubble tea cup. This object that would otherwise be thrown out can be made into a sleek, buttonless, touch-activated lamp through capacitive touch technology. It is designed to be cheap and simple to produce to encourage the reusing of bubble tea cups.
 
 
 ### Why do I want to make this? | 为什么想做这个？
 
-*What problem does it solve? What excites you about it?*  
-*它解决什么问题？什么让你对它感到兴奋？*
-
+Bubble tea is a hugely popular drink, but with every order of bubble tea comes with a plastic cup, which many do not bother to recycle or reuse. This project aims to fight against this by creating something useful out of bubble tea.
 
 
 
 ### What technologies or tools might I need? | 我可能需要什么技术或工具？
 
-*It's okay if you're not sure yet!*  
-*如果你还不确定，没关系！*
 
-- [ ] Arduino
+- [x] Arduino
 - [ ] ESP32
-- [ ] Sensors (which ones?: _________________)
-- [ ] LEDs / Lights
+- [x] Sensors (which ones?: capacitive sensor)
+- [x] LEDs / Lights
 - [ ] Motors / Servos
-- [ ] 3D Printing
+- [x] 3D Printing
 - [ ] AI / Machine Learning
 - [ ] Other: _________________
 
@@ -81,16 +75,16 @@ Rate your current level (1 = beginner, 5 = expert) and what you want to achieve:
 
 | Skill | Current Level | Target Level |
 |-------|--------------|--------------|
-| Arduino Programming | ☐1 ☐2 ☐3 ☐4 ☐5 | ☐1 ☐2 ☐3 ☐4 ☐5 |
-| Circuit Building | ☐1 ☐2 ☐3 ☐4 ☐5 | ☐1 ☐2 ☐3 ☐4 ☐5 |
-| 3D Design | ☐1 ☐2 ☐3 ☐4 ☐5 | ☐1 ☐2 ☐3 ☐4 ☐5 |
-| Git/GitHub | ☐1 ☐2 ☐3 ☐4 ☐5 | ☐1 ☐2 ☐3 ☐4 ☐5 |
-| Documentation | ☐1 ☐2 ☐3 ☐4 ☐5 | ☐1 ☐2 ☐3 ☐4 ☐5 |
-| Problem Solving | ☐1 ☐2 ☐3 ☐4 ☐5 | ☐1 ☐2 ☐3 ☐4 ☐5 |
+| Arduino Programming | 3 | 4 |
+| Circuit Building | 4 | 5 |
+| 3D Design | 4 | 5 |
+| Git/GitHub | 4 | 4 |
+| Documentation | 2 | 4 |
+| Problem Solving | 4 | 5 |
 
 ### One specific thing I want to master | 我想掌握的一件具体事情
 
-
+Custom PCB design on KiCAD!
 
 ---
 
@@ -101,9 +95,9 @@ Rate your current level (1 = beginner, 5 = expert) and what you want to achieve:
 *Choose one from: Curiosity, Hands-on, Fail Fast, Iteration, Interdisciplinary, Open Sharing*  
 *从以下选择一个：好奇、动手、快速试错、迭代、跨学科、开源分享*
 
-**I choose | 我选择**: 
+**I choose | 我选择**: Curiosity
 
-**Because | 因为**: 
+**Because | 因为**: I'm always interested in WHY things work the way they do. 
 
 
 
@@ -119,12 +113,12 @@ Rate your current level (1 = beginner, 5 = expert) and what you want to achieve:
 
 ### Specific goals for each day | 每天的具体目标
 
-- **Day 1**: 
-- **Day 2**: 
-- **Day 3**: 
-- **Day 4**: 
-- **Day 5**: 
-- **Day 6**: 
+- **Day 1**: Get project idea and plan done
+- **Day 2**: Start designing custom parts
+- **Day 3**: Throw together initial prototype
+- **Day 4**: Code and iterate
+- **Day 5**: Refinement
+- **Day 6**: Documentation and presentation
 
 ---
 
@@ -132,8 +126,7 @@ Rate your current level (1 = beginner, 5 = expert) and what you want to achieve:
 
 ### Is there anything else you'd like to share? | 还有什么想分享的吗？
 
-
-
+Excited to work! :)
 
 ### Any concerns or questions? | 有任何顾虑或问题吗？
 
@@ -158,16 +151,16 @@ To add a photo:
 ## 🚀 My Commitment | 我的承诺
 
 **I commit to | 我承诺**:
-- [ ] Being curious and asking questions
-- [ ] Trying things even if I might fail
-- [ ] Helping my teammates
-- [ ] Documenting my progress
-- [ ] Sharing what I learn
-- [ ] Having fun and being creative!
+- [x] Being curious and asking questions
+- [x] Trying things even if I might fail
+- [x] Helping my teammates
+- [x] Documenting my progress
+- [x] Sharing what I learn
+- [x] Having fun and being creative!
 
-**Signature | 签名**: _________________
+**Signature | 签名**: Isaac Wong
 
-**Date | 日期**: _________________
+**Date | 日期**: 11/21/25
 
 ---
 

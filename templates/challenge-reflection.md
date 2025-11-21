@@ -337,4 +337,3 @@ _[Upload photo or describe]_
 
 *Remember: Failure is not the opposite of success, it's part of success!*  
 *记住：失败不是成功的对立面，它是成功的一部分！*
-
